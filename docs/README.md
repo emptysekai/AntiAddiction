@@ -2,7 +2,7 @@
 
 九月四日，王女士向我社反映，自己的孩子小王一到周末就玩电脑，每天都盯着一个像素化界面看一下午。我社记者随即安排进入调查
 
-据了解，小王受网络上 `沙盒游戏` 圈子里的网友教唆，正在玩一款叫 [`Minecraft Java Edition`](https://www.minecraft.net) 的游戏。但接下来，令人触目惊心的真相被发现了
+据了解，小王受网络上 `Minecraft` 圈子里的网友教唆，正在玩一款叫 [`Minecraft Java Edition`](https://www.minecraft.net) 的游戏。但接下来，令人触目惊心的真相被发现了
 
 记者在网上调查，发现 `Minecraft Java Edition` 竟是 `Mojang Studios` 公司旗下的付费游戏，且购买费用更是令人膛目结舌的165元人民币。看到这里，王女士都要晕过去了
 
