@@ -1,15 +1,15 @@
 {
-    "id": "fox_tail",
+    "id": "anti_addiction",
     "version": "1.0.1",
-    "name": "FoxTail",
+    "name": "AntiAddiction",
     "description": {
-        "en_us": "Fox tail is wired plugin",
-        "zh_cn": "fu哩yi叭柿奇怪插件"
+        "en_us": "Anti-addition plugin with customizable whitelist",
+        "zh_cn": "可自定义白名单的防沉迷插件"
     },
     "author": [
         "Van_Nya"
     ],
-    "link": "https://github.com/Van-Nya-Stew/FoxTail",
+    "link": "https://github.com/Van-Nya-Stew/AntiAddiction",
     "dependencies": {
         "mcdreforged": ">=2.0.0"
     },
