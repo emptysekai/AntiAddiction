@@ -2,7 +2,7 @@ from mcdreforged.api.types import PluginServerInterface
 from mcdreforged.api.command import Literal
 from mcdreforged.api.rtext import RText, RTextList, RColor, RAction
 
-from fox_tail.plug import plug_in_fox
+from anti_addiction.plug import plug_in_fox
 
 
 def on_load(server: PluginServerInterface, old):
