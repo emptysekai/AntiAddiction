@@ -1,0 +1,19 @@
+{
+    "id": "fox_tail",
+    "version": "1.0.1",
+    "name": "FoxTail",
+    "description": {
+        "en_us": "Fox tail is wired plugin",
+        "zh_cn": "fu哩yi叭柿奇怪插件"
+    },
+    "author": [
+        "Van_Nya"
+    ],
+    "link": "https://github.com/Van-Nya-Stew/FoxTail",
+    "dependencies": {
+        "mcdreforged": ">=2.0.0"
+    },
+    "resources": [
+        "lang"
+    ]
+}
